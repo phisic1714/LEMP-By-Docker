@@ -52,7 +52,7 @@ LEMP Stack ที่เป็นกลุ่มของ Open Source Software �
    
 # M (MariaDB)
 การติดตั้งก็จะผนวกกับ Nginx , PHP และ MariaDB เข้าด้วยกัน
-1. Download File [titanic.sql] จากลิ้งนี้ https://mailrmuttac.sharepoint.com/:u:/s/xOps_Native_Cloud/EbAg3s6tZd9PiFEIS7D7CEQBxnHWBqkq8TL6X5ovFH0nHw?e=xcn4co หรือ สร้าง File [titanic.sql] และ Copy script บรรทัดที่ 1-45 จากลิ้งนี้ https://github.com/phisic1714/LEMP-By-Docker/blob/main/lemp_dock/mariadb/initdb/titanic.sql
+1. Download File [titanic.sql] หรือ สร้าง File [titanic.sql] และ Copy script จากลิ้งนี้ https://github.com/phisic1714/LEMP-By-Docker/blob/main/lemp_dock/mariadb/initdb/titanic.sql
 2. นำ Directory(Folder) เดิมจากข้อ P (PHP) หรือ โฟล์เดอร์ lemp_dock มาเพิ่ม Directory(Folder) และ File ตาม list นี้
 
    - mariadb/
