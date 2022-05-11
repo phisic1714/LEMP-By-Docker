@@ -37,9 +37,9 @@ LEMP Stack ที่เป็นกลุ่มของ Open Source Software �
      * index.php
    - nginx/
      - conf/
-      * nginx.conf
+       * nginx.conf
      - conf.d/
-      * default.conf
+       * default.conf
 
 2. ใน File [docker-compose.yml] ให้เข้าไปเพิ่ม script ตามลิ้งนี้ https://github.com/phisic1714/LEMP-By-Docker/blob/main/docker-compose.yml
 3. ใน File [index.html] ให้เข้าไปเพิ่ม script ตามลิ้งนี้ https://github.com/phisic1714/LEMP-By-Docker/blob/main/index.html
@@ -70,9 +70,9 @@ LEMP Stack ที่เป็นกลุ่มของ Open Source Software �
      * index.php
    - nginx/
      - conf/
-      * nginx.conf
+       * nginx.conf
      - conf.d/
-      * default.conf
+       * default.conf
    - mariadb/
      - data/
      - initdb/
